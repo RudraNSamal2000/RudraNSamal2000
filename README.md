@@ -42,10 +42,10 @@ I am a dedicated Data Analyst with a strong foundation in transforming complex d
   <a href="https://wa.me/qr/I4WWMOGGBZT5G1" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="40" />
   </a>
-  <a href="rudranarayanasamal0011@gmail.com" target="_blank">
+  <a href="mailto:rudranarayanasamal0011@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" width="40" />
   </a>
-  <a href="+919078225834" target="_blank">
+  <a href="tel:+91 9078225834" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" width="40" />
   </a>
 </p>
