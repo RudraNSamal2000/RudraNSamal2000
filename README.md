@@ -36,16 +36,16 @@ I am a dedicated Data Analyst with a strong foundation in transforming complex d
   <a href="https://github.com/RudraNSamal2000" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/[yourlinkedinprofile/](https://www.linkedin.com/in/rudranarayana-samal-440196360/)" target="_blank">
+  <a href="https://www.linkedin.com/in/[yourlinkedinprofile/](https://www.linkedin.com/in/rudranarayana-samal-440196360/)/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="40" />
   </a>
-  <a href="https://wa.me/9078225834" target="_blank">
+  <a href="https://wa.me/+919078225834" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="40" />
   </a>
   <a href="mailto:rudranarayanasamal0011@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" width="40" />
   </a>
-  <a href="tel:+91 9078225834" target="_blank">
+  <a href="tel:+919078225834" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" width="40" />
   </a>
 </p>
