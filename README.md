@@ -30,25 +30,9 @@ I am a dedicated Data Analyst with a strong foundation in transforming complex d
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/rudranarayana-samal-440196360/)
 [![Whatsapp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square)](https://wa.me/qr/I4WWMOGGBZT5G1)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r_n_samal) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rudranarayanasamal0011@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919078225834)
 
-## 📞 Contact Me
-<p align="left">
-  <a href="https://github.com/RudraNSamal2000" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/rudranarayana-samal-440196360/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="40" />
-  </a>
-  <a href="https://wa.me/qr/I4WWMOGGBZT5G1" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="40" />
-  </a>
-  <a href="mailto:rudranarayanasamal0011@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" width="40" />
-  </a>
-  <a href="tel:+91 9078225834" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" width="40" />
-  </a>
-</p>
 
 
 # 💻 Tech Stack:
