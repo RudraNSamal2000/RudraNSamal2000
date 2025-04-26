@@ -28,7 +28,7 @@ I am a dedicated Data Analyst with a strong foundation in transforming complex d
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/rudranarayana-samal-440196360/)
-[![Whatsapp](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://wa.me/qr/I4WWMOGGBZT5G1)
+[![Whatsapp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square)](https://wa.me/qr/I4WWMOGGBZT5G1)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r_n_samal) 
 
 ### What'sApp : 9078225834
